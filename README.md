@@ -1,6 +1,6 @@
 # final project  
 
-##assemble the bbcar and set up map
+##assemble the bbcar and set up map  
 ->assemble the bbcar with servos、encoder、laser ping、xbee and QTIs,use a powerbank to supply the power  
 ->set up a black line map  
 
